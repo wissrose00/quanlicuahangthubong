@@ -1,0 +1,17 @@
+E:\code mướn\quanlicuahangthunhoibong\quanlicuahangthunhoibong\bin\Debug\quanlicuahangthunhoibong.exe
+E:\code mướn\quanlicuahangthunhoibong\quanlicuahangthunhoibong\bin\Debug\quanlicuahangthunhoibong.pdb
+E:\code mướn\quanlicuahangthunhoibong\quanlicuahangthunhoibong\obj\x86\Debug\quanlicuahangthunhoibong.ahome.resources
+E:\code mướn\quanlicuahangthunhoibong\quanlicuahangthunhoibong\obj\x86\Debug\quanlicuahangthunhoibong.Properties.Resources.resources
+E:\code mướn\quanlicuahangthunhoibong\quanlicuahangthunhoibong\obj\x86\Debug\quanlicuahangthunhoibong.csproj.GenerateResource.Cache
+E:\code mướn\quanlicuahangthunhoibong\quanlicuahangthunhoibong\obj\x86\Debug\quanlicuahangthunhoibong.exe
+E:\code mướn\quanlicuahangthunhoibong\quanlicuahangthunhoibong\obj\x86\Debug\quanlicuahangthunhoibong.pdb
+E:\code mướn\quanlicuahangthunhoibong\quanlicuahangthunhoibong\obj\x86\Debug\quanlicuahangthunhoibong.login.resources
+E:\code mướn\quanlicuahangthunhoibong\quanlicuahangthunhoibong\bin\Debug\quanlicuahangthunhoibong.exe.config
+E:\code mướn\quanlicuahangthunhoibong\quanlicuahangthunhoibong\bin\Debug\Database1.mdf
+E:\code mướn\quanlicuahangthunhoibong\quanlicuahangthunhoibong\bin\Debug\Database1_log.ldf
+E:\code mướn\quanlicuahangthunhoibong\quanlicuahangthunhoibong\obj\x86\Debug\quanlicuahangthunhoibong.themgaubong.resources
+E:\code mướn\quanlicuahangthunhoibong\quanlicuahangthunhoibong\obj\x86\Debug\quanlicuahangthunhoibong.quanligau.resources
+E:\code mướn\quanlicuahangthunhoibong\quanlicuahangthunhoibong\obj\x86\Debug\quanlicuahangthunhoibong.csprojResolveAssemblyReference.cache
+E:\code mướn\quanlicuahangthunhoibong\quanlicuahangthunhoibong\obj\x86\Debug\quanlicuahangthunhoibong.quanlidonhang.resources
+E:\code mướn\quanlicuahangthunhoibong\quanlicuahangthunhoibong\obj\x86\Debug\quanlicuahangthunhoibong.taodonhang.resources
+E:\code mướn\quanlicuahangthunhoibong\quanlicuahangthunhoibong\obj\x86\Debug\quanlicuahangthunhoibong.thongke.resources
